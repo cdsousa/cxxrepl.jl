@@ -1,0 +1,2 @@
+#!/bin/sh
+julia -i -q -L ~/bin/cxxrepl.jl
